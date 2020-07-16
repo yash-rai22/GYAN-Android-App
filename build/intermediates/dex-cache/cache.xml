@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\5195453a74c299d38bfe995e83067f65c4f61db0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a06b0579dbe59192ef460e3de04657720925d05b">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1204eb4a7b5bb5fc81bb946839f6031bc98941fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\fd34895ad5668153d825222f97db573227ef99fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f30f0d083aa1d28b5fd24626c2449588e15ed70">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_625f72c7daf1c626b044ec32fd802fc61a17c9ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\96d2d4ca3409c401f2b2d660859dca02fd613a2f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7ee3f5dff489b7f7a7b9709d0bb8ca1b51d9515\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\b9ad84bae3537737c33c2e2fc1fb1d5e88aaca88\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f88afe693b78cd1882517a5b1975af3fdff3a769\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\ace17f82acd299bf5db0a40539f597f1a087c19f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e9f189f7a72b556f54a3e900dbee747f97f3206">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79a3d2d2057c560941bc9cc865add670b655af39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\02367f1766b7a7f4f95219bd2ea826bc7b7a6f3b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f32bc83caa51be95f33c505cc0e559ed3242886\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\7d29cc1a98efa18bceb1b46be7f0f008c6e07aeb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8991a1c2455d7e4117b16c5d4304d6d3fcaa7ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\bf08e030b87db69b672117f81cf70560df697c53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69d3b65055ca1faccaabbd99f4c04079f8b1fb6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\12359f304f0e62bc53c6acf6e57d5b1252d1e798\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c251e88b3afd68a43e9e02564b479be2c72b91c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta4_a923a670c752ec47160079cd0bec102ad2a6db50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\af722e98e8fb34c128e0a523cfa5f5556ff2617a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5da855b24ea485dde60d5e047f3635085e27bbf7">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c65a3c88a154b1a07005d610de992d867eec453\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_5d759b415617d9c72c2cd6c4f7a3cea86530b140\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\d4a0e4bee505899d2390a5c851f98988f11a2ce7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_504f18a4711cd230fed0c5003211283c8a426268\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\d0b98ef592f1a794e5564f7a0afaf666528ee365\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10ed908d1fb39a0e4bc2d29de743270b3ba714b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\5427d152d145de3fdf91ff30ee5348c521174f04\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_73fb5b1a986632e3a62badd2c8ded59eff7c20c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\91c7ef0bb863bf80f7e1cbc5fb974b316c6e5ff0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0ddd63b59ff7f16796d2517ffc7f2f51e4e918a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\7891f2eb9949c43168b048dc5b7709b34aabcd68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7dc4e0ea5b06183f6b32f08c5db6bcb6ef79c02a">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a718edfab3ac443faf4786ec9a0cfc61b0943ad8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\a9aaa1b744c7d548a3f04dd48b869396cbd31049\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_521c1d7b9a092b44786fe49c8b651895d98cd42c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\7367b86b35494085df7d81a27270d0209bc0df0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="09d89c0a8e2ba8d2fd5e7110d62bc6916d642567">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_020f2de6571647d45190cc1e32876f10c2e5cf30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\91a0b086ca91daf2d0231842d89d2aabe0106da9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e3a3d62fab67ccb83f386a4c092bfb5747ea15a7">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d753879268f33be3d42ac59a5abd027734875a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\f55e85db9da67c4b25035779286934c6543ea031\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_852da4603e8bb2a9d7840d424d4be1245de2f758\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\07582563f231d8b02d91489e41c40fca1b7f7062\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4108921fbc10cc620931782e8cdf67bb033c4709\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\51db30c0aebecbfb38a3cf30a939c5e1c7272d21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_350c6b0b8e07b44a54afd23659bf38409d804bc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\2ab04f3af4dba5f966273c216430869e51231ee3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33085cd1e2bc6995df7373babcd82ad8b637caf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\c08637ab80d35a69eb7c2a1f1360617199476da1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6924ef2127a1fb106d13d701c25b2688223c0fad">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d663c7aacdb87e5794ce1f28f8025ac4f77b19c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\cede374693ef428bda9860a6bd57a1ccd7b54c97\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_432fbdef43117ae6febe96b7980ebfde93082b32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\cc1837083fdffc7c3c43263c7ce886cc1ed5c7c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41845d8e838ec497c041e0a23b3114cb7bcdd46c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\8845d840499fd21171e28c5ea4ebad164cd2d320\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1d16ffcc50b1dfa726cf978ea9f0a949cdd70e7d">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_888d01f2f4361e82ba31c2bbc3a6aa5da7f93ef4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\0251e9820cf931e196bd9d618aded9b95e839c30\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67495ef51b5a47d76dfff5e9e8f110ae4c17b169\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\0af21287ae9528eef6b81d32e2240c25e30c2c92\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a92e1327c7d7891fafd1ddda93b50f42899a80fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\bdeccb189bf202f8546f2599bbfcfbca35810101\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db0f820c9a5f55cb6fb257ac384a1a3701125eb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\d821a7d6dff2c30e82c8393373a12c5a50dc6fe0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c1e3e5ead84b8c40cbadc17a93fc54ef8e85dc5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_ab51510bb490e249428a3d6be4724a8752961591\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\e35c4d377f5c983efa191ebb7d770694906b19a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f01a949d5795bf7149d1b39fa16f805257ad1058\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\48a6ba017469c0e7f2e2115db495717bfc15ce8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61340aa225b5c85f93c4c31ce83b19cab28b1ddf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gayatri\.android\build-cache\ad3fef055bc6a3362541a3ff67c183ffb0ce80e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="89ba8466f3e32427af7aa725eb7be31a15c78a77">
+        <dex dex="C:\Users\Gayatri\AndroidStudioProjects\GYAN2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da4a3d3b6da324a822fffde0e2bbd6c5a9c8e8ba\classes.dex" />
+    </item>
+
+</items>
