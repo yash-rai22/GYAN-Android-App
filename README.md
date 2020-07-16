@@ -88,10 +88,4 @@ _We won the 'Best app by Second Year' award for this app in 2017._
 * Sync the gradle according to the project's gradle version
 * Install the apk onto an Android device using Android Studio
 
-## Authors
 
-* **Kalyan Prusty** - *Lead Developer*
-* **Shreyas Dhobal** - *Developer*
-* **Rajat Biswas** - *Lead Designer*
-
-See also the list of [contributors](https://github.com/rajatdiptabiswas/timetable/graphs/contributors) who participated in this project.
